@@ -1,4 +1,4 @@
-## Hi, I’m Thaís Nakamura, 20yo.
+## Hi, I’m Thaís Nakamura, 21yo.
 ### I'm currently working on my Master Degree with AI. I'm also in the last year of Biomedical Engineering.
 
 <!---
